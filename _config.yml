@@ -1,0 +1,28 @@
+name: TerryLyons.com
+favicon: null
+layout_spectrum: 0.25025832559913397
+typography_spectrum: 0.9485894409008324
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9280273022595793
+  lightness: 0.5389511773828417
+  saturation: 0.351266962941736
+  rhythmicContrast: 0.31782682915218174
+purpose: []
