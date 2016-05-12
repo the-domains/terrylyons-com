@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Widely known in the sports world for his 25+ year career helping build the NBA into a globally-recognized sports, business and philanthropic property, Terry Lyons has successfully transitioned into a second career as an entrepreneur in the world of multimedia, brand-building and communications consulting in the sports and entertainment fields. During his 27 years at the NBA, Lyons worked closely with Commissioner David Stern and the NBA's talented staff to lead the league's international mission to maximize worldwide business, sports and media opportunities. "
-datePublished: '2016-05-12T19:08:45.572Z'
-dateModified: '2016-05-12T19:08:38.448Z'
+datePublished: '2016-05-12T19:09:19.148Z'
+dateModified: '2016-05-12T19:08:56.347Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-12-about-terry-lyons.md
